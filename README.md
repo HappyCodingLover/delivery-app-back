@@ -3,8 +3,8 @@
 API for a food delivery app built with node.js
 
 ## Connected Projects
-- Web: https://github.com/moiseshilario/delivery-app-web
-- Mobile: https://github.com/moiseshilario/delivery-app-mobile
+- Web: https://github.com/HappyCodingLover/delivery-app-web
+- Mobile: https://github.com/HappyCodingLover/delivery-app-mobile
 
 ## Setup
 
